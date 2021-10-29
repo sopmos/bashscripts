@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Dungeons and Dragons Dice Roller #
-# Written by Sophia Moseley (sopmos) #
+# Written by sopmos #
 
 
 dia1='Rolling...'

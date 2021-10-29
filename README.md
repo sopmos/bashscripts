@@ -10,5 +10,6 @@ to help in any way I can. Feel free to fork and modify as you please, just remem
 be listed under the GPL v3 license, as that is what Bash itself uses.**
 
 <br>
+Enjoy!  
 
 sopmos
